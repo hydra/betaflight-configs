@@ -31,6 +31,7 @@ Details: https://github.com/crteensy/yolo-chonker/tree/as-built-20230303
 #define MANUFACTURER_ID         YOLO
 
 
+#define USE_MCO_OUTPUTS
 #define USE_ACC
 #define USE_ACC_SPI_ICM20602
 
